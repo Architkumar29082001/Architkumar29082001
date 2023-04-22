@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Architkumar</h1>
 <h3 align="center">A Cyber security Enthusiast from India</h3>
-<imag align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1739134/screenshots/6118892/infirmationssakerhet_startcase_01.gif">s
+<imag align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1739134/screenshots/6118892/infirmationssakerhet_startcase_01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architkumar29082001&label=Profile%20views&color=0e75b6&style=flat" alt="architkumar29082001" /> </p>
 
