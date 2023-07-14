@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nimbupani_xd" target="blank"><img src="https://img.shields.io/twitter/follow/nimbupani_xd?logo=twitter&style=for-the-badge" alt="nimbupani_xd" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security , AIML , Data science**
+- 🌱 I’m currently learning **Cyber Security , Aiml , Data science**
 
 - 💬 Ask me about **Metasploit and Other Cyber Security frame Work**
 
