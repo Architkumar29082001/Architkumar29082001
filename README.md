@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cyber Security , Aiml , Data science**
 
-- 💬 Ask me about **Metasploit and Other Cyber Security frame Work**
+- 💬 Ask me about **Metasploit and Other Cyber Security frameworks**
 
 - 📫 How to reach me **architkumar20001@gmail.com**
 
