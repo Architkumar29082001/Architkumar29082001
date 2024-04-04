@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Archit Kumar</h1>
-<h3 align="center">I'm a passionate Software Developer & Cyber Security Enthusiast from India</h3>
+<h3 align="center">I'm a passionate Data Analyst,Business Analyst & Cyber Security Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=architkumar29082001&label=Profile%20views&color=0e75b6&style=flat" alt="architkumar29082001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nimbupani_xd" target="blank"><img src="https://img.shields.io/twitter/follow/nimbupani_xd?logo=twitter&style=for-the-badge" alt="nimbupani_xd" /></a> </p>
-
-- 🌱 I’m currently learning **Cyber Security, AIML**
+- 🌱 I’m currently learning **Data Analysis,Business Analysis and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://architkumar-portfolio.vercel.app/](https://architkumar-portfolio.vercel.app/)
 
-- 💬 Ask me about **Cyber Security frameworks and Other things related to Cyber Security**
+- 💬 Ask me about **Cyber Security frameworks and Other things related to Cyber Security And Data and Business Analysis**
 
 - 📫 How to reach me **architkumar20001@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_p636hWcKBMhnoGpS_sXHgl_0xdifFy8/view?usp=sharing](https://drive.google.com/file/d/1_p636hWcKBMhnoGpS_sXHgl_0xdifFy8/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
 <a href="https://dev.to/https://dev.to/architkumar29082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/architkumar29082001" height="30" width="40" /></a>
 <a href="https://twitter.com/nimbupani_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimbupani_xd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/architkumar29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/architkumar29/" height="30" width="40" /></a>
